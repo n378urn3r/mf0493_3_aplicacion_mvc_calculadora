@@ -1,0 +1,11 @@
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7\aplicacion_mvc_calculadora\aplicacion_mvc_calculadora\bin\Debug\netcoreapp2.0\aplicacion_mvc_calculadora.deps.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7\aplicacion_mvc_calculadora\aplicacion_mvc_calculadora\bin\Debug\netcoreapp2.0\aplicacion_mvc_calculadora.runtimeconfig.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7\aplicacion_mvc_calculadora\aplicacion_mvc_calculadora\bin\Debug\netcoreapp2.0\aplicacion_mvc_calculadora.runtimeconfig.dev.json
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7\aplicacion_mvc_calculadora\aplicacion_mvc_calculadora\bin\Debug\netcoreapp2.0\aplicacion_mvc_calculadora.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7\aplicacion_mvc_calculadora\aplicacion_mvc_calculadora\bin\Debug\netcoreapp2.0\aplicacion_mvc_calculadora.pdb
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7\aplicacion_mvc_calculadora\aplicacion_mvc_calculadora\obj\Debug\netcoreapp2.0\aplicacion_mvc_calculadora.csprojResolveAssemblyReference.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7\aplicacion_mvc_calculadora\aplicacion_mvc_calculadora\obj\Debug\netcoreapp2.0\aplicacion_mvc_calculadora.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7\aplicacion_mvc_calculadora\aplicacion_mvc_calculadora\obj\Debug\netcoreapp2.0\aplicacion_mvc_calculadora.AssemblyInfoInputs.cache
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7\aplicacion_mvc_calculadora\aplicacion_mvc_calculadora\obj\Debug\netcoreapp2.0\aplicacion_mvc_calculadora.AssemblyInfo.cs
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7\aplicacion_mvc_calculadora\aplicacion_mvc_calculadora\obj\Debug\netcoreapp2.0\aplicacion_mvc_calculadora.dll
+C:\Users\x\Documents\Visual Studio 2017\Projects\mf0493_3_clase\clase7\aplicacion_mvc_calculadora\aplicacion_mvc_calculadora\obj\Debug\netcoreapp2.0\aplicacion_mvc_calculadora.pdb
